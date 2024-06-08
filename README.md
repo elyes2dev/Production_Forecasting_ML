@@ -1,6 +1,6 @@
 # Production_Forecasting_ML
 
-![Production Forecasting](https://postimg.cc/XZzYg4s6)
+![Production Forecasting](https://i.postimg.cc/C1FnSKD5/image-2024-06-08-153935673.png)
 
 ## Overview
 
