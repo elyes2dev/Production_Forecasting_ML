@@ -1,6 +1,6 @@
 # Production_Forecasting_ML
 
-![Production Forecasting](https://media.giphy.com/media/1AgViXYK1p3MDxTZV3/giphy.gif)
+![Production Forecasting](https://media.licdn.com/dms/image/D4D12AQFbeZ8BrXigAw/article-cover_image-shrink_600_2000/0/1692599813158?e=2147483647&v=beta&t=w_jUmt_EGzaH2luUrhICMMoeRqUY3AeoRvLHq8nrUXw)
 
 ## Overview
 
